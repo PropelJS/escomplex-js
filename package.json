@@ -26,7 +26,7 @@
     ],
     "dependencies": {
         "check-types": "1.1.x",
-        "esprima": "1.0.x",
+        "esprima": "git://github.com/ariya/esprima.git#harmony",
         "escomplex-ast-moz": "0.1.x",
         "escomplex": "0.2.3"
     },
