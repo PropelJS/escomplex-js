@@ -1,6 +1,6 @@
 {
     "name": "escomplex-js",
-    "version": "0.1.2",
+    "version": "0.1.4",
     "description": "Javascript wrapping library for escomplex.",
     "homepage": "https://github.com/philbooth/escomplex-js",
     "bugs": "https://github.com/philbooth/escomplex-js/issues",
@@ -28,7 +28,7 @@
         "check-types": "1.1.x",
         "esprima": "git://github.com/ariya/esprima.git#harmony",
         "escomplex-ast-moz": "0.1.x",
-        "escomplex": "0.2.3"
+        "escomplex": "0.2.5"
     },
     "devDependencies": {
         "jshint": "2.1.x",
